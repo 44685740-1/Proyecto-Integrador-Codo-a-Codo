@@ -75,13 +75,11 @@
 
 /* 
 css de footer no responsive
-
 .footer-padre {
     background-color: #26244B;
     width: 100%;
     height: 6rem;
 }
-
 .footer-hijo {
     display: flex;
     flex-direction: row;
@@ -100,7 +98,6 @@ css para footer con grid y breakpoint
     background-color:  #26244B;
     height: 6rem;
 }
-
 .row {
     position: relative;
     top: 2rem;
